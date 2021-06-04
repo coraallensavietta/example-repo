@@ -3,3 +3,6 @@
 notes about kick-off call
 next steps
 another idea
+
+
+new changes
